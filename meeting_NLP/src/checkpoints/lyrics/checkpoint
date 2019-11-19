@@ -1,0 +1,5 @@
+model_checkpoint_path: "/export/home/jx-002/code/meeting_NLP/src/checkpoints/lyrics/lyrics-76"
+all_model_checkpoint_paths: "/export/home/jx-002/code/meeting_NLP/src/checkpoints/lyrics/lyrics-20"
+all_model_checkpoint_paths: "/export/home/jx-002/code/meeting_NLP/src/checkpoints/lyrics/lyrics-40"
+all_model_checkpoint_paths: "/export/home/jx-002/code/meeting_NLP/src/checkpoints/lyrics/lyrics-60"
+all_model_checkpoint_paths: "/export/home/jx-002/code/meeting_NLP/src/checkpoints/lyrics/lyrics-76"

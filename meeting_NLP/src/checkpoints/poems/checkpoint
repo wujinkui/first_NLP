@@ -1,0 +1,2 @@
+model_checkpoint_path: "/export/home/jx-002/code/meeting_NLP/src/checkpoints/poems/poems-0"
+all_model_checkpoint_paths: "/export/home/jx-002/code/meeting_NLP/src/checkpoints/poems/poems-0"
